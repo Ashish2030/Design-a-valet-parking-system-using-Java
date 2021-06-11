@@ -1,7 +1,31 @@
-# Design_a_valet_parking_system_using_Java
+<h1 align="center">𝐃𝐞𝐬𝐢𝐠𝐧 𝐚 𝐯𝐚𝐥𝐞𝐭 𝐩𝐚𝐫𝐤𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦</h1>
+<p align="center">:octocat: 🌟ᴛʜɪꜱ ɪꜱ ᴀ ꜱᴏʟᴜᴛɪᴏɴ ᴏꜰ ʟᴇᴀᴅꜱQᴜᴀʀᴇᴅ ᴄᴏᴍᴘᴀɴʏ ᴡʜɪᴄʜ ᴡᴀꜱ ʜɪʀɪɴɢ ɪɴᴛᴇʀɴ ꜰᴏʀ ꜱᴅᴇ ʀᴏʟᴇ. ɪ ʜᴀᴠᴇɴ'ᴛ ᴀᴘᴘʟʏ ꜰᴏʀ ᴛʜɪꜱ ᴊᴏʙ ʙᴇᴄᴀᴜꜱᴇ ᴏꜰ ɪᴛꜱ ʟᴏᴡ ᴘᴀᴄᴋᴀɢᴇ 💻 🎯 🚀 <p>
 
-Problem statement 
-===================
+	
+<p align="center">
+ <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/fork" target="blank">
+ <img src="https://img.shields.io/github/forks/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="Swagger forks"/>
+</a>
+<a href="https://github.com/ashish2030/Swagger/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+</a>
+<a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+</a>
+<a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+</a>
+</p>
+
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Design_a_valet_parking_system_using_Java)](https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Design_a_valet_parking_system_using_Java)](https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/archive/master.zip)
+
+![Screenshot (602)](https://user-images.githubusercontent.com/61516051/121710388-33386980-caf7-11eb-8c5c-8214aca7f601.png)
+
+	
+# Problem statement 
+	
 Design a valet parking system. Requirements of the valet parking system are:  
 1. Parking lot is fixed in size and cannot be over parked.  
 2. A vehicle is allowed only when a suitable parking spot is available.  
