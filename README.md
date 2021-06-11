@@ -40,3 +40,11 @@ Design and assumptions
 =======================
 Resources in the system have been identified and translated to java classes directly to design this modularilzed and extendable valet parking system. Composition has been used extensively for enabling re-usability, de-coupled classes, and easy unit-testability. No. of Unit test cases have been written to give us a safety-net to rapidly refactor, add frameworks and extend the application. Spring, Hibernate, Maven have not been used as the intention here is to just show the design aspects and to deliver the prod ready code in a very quick time. Database/Dao layer is not present but application's entities could be directly mapped to DB tables. Because of composition's heavy usage, it would be a matter of couple of hours to convert it into a full fledged spring/hibernate based application. At last, Concurrency aspect has been left out to keep things simple at this point of time. A simple Runnable 'ParkTheCarTask' is present however just to show the intention of not keeping the customer waiting for the valet token after giving the car to the ValetParkingManager.
 
+   <p align="center">
+    <a href="https://www.careercup.com/question?id=5750856565653504" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues/new/choose">Request Feature</a>
+</p>
+
