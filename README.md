@@ -3,23 +3,23 @@
 
 	
 <p align="center">
- <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/fork" target="blank">
- <img src="https://img.shields.io/github/forks/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="Swagger forks"/>
+ <a href="https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/fork" target="blank">
+ <img src="https://img.shields.io/github/forks/ashish2030/Design-a-valet-parking-system-using-Java?style=flat-square" alt="Swagger forks"/>
 </a>
 <a href="https://github.com/ashish2030/Swagger/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+<img src="https://img.shields.io/github/stars/ashish2030/Design-a-valet-parking-system-using-Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
 </a>
-<a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues" target="blank">
-<img src="https://img.shields.io/github/issues/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+<a href="https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ashish2030/Design-a-valet-parking-system-using-Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
 </a>
-<a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/Design_a_valet_parking_system_using_Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
+<a href="https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Design-a-valet-parking-system-using-Java?style=flat-square" alt="EmailSender-Rest-API-Backend-Of-frontend-Using-javascript"/>
 </a>
 </p>
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Design_a_valet_parking_system_using_Java)](https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Design_a_valet_parking_system_using_Java)](https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Design-a-valet-parking-system-using-Java)](https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Design-a-valet-parking-system-using-Java)](https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/archive/master.zip)
 
 ![Screenshot (602)](https://user-images.githubusercontent.com/61516051/121710388-33386980-caf7-11eb-8c5c-8214aca7f601.png)
 
@@ -43,8 +43,7 @@ Resources in the system have been identified and translated to java classes dire
    <p align="center">
     <a href="https://www.careercup.com/question?id=5750856565653504" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ashish2030/Design_a_valet_parking_system_using_Java/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ashish2030/Design-a-valet-parking-system-using-Java/issues/new/choose">Request Feature</a>
 </p>
-
